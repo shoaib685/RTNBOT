@@ -1,7 +1,8 @@
 # RTNBOT
 --------------------
 
-# A fun and moderation bot with 120+commnds made using discord.js A bot with 10+ cteagorys and 120+ commnds FULLY customezible bot bot alrdeyy done 110+ servers
+* A fun and moderation bot with 120+commnds made using discord.js 
+* A bot with 10+ cteagorys and 120+ commnds FULLY customezible bot bot alrdeyy done 110+ servers
 
 # Database of 60,000 waifu and husbando to search and collect (Discord gacha card game): be the first to claim them on your server! All are from existing animes, manga, comics or video games. They were suggested by the community along with over 250,000 images and gifs, details are constantly added and reviewed by users. Hundreds of commands available!
 
