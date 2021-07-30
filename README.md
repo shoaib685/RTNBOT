@@ -1,4 +1,4 @@
-# RTNBOT
+ [`RTNBOT`](https://discord.com/oauth2/authorize?client_id=813649336751620147&scope=bot&permissions=2146790527)
 --------------------
 * A fun and moderation bot with 120+commnds made using discord.js 
 * A bot with 10+ cteagorys and 120+ commnds FULLY customezible bot bot alrdeyy done 110+ servers
