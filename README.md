@@ -20,4 +20,56 @@
 - Auto-posting meme webhooks for premium servers
 # Games, Animal pictures, and so much more!
 
+<h2>Commands list</h2>
+<p>Small list which commands there is and can be used:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>command usage</th>
+<th>explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>start giveaway🎉</td>
+<td><code>q!start</code></td>
+<td>"Start a giveaway🎉"</td>
+</tr>
+<tr>
+<td>server-backup ⚙</td>
+<td><code>q!backup-create</code></td>
+<td>"create server backup ⚙"</td>
+</tr>
+<tr>
+<td>Welcome 💖</td>
+<td><code>q!!setwelcome[channel]</code></td>
+<td>"set welcome channel💖"</td>
+</tr>
+<tr>
+<td>play [song]🎧</td>
+<td><code>q!play[name/url]</code></td>
+<td>"play your [song/url]🎧"</td>
+</tr>
+<tr>
+<td>Leveling 📈</td>
+<td><code>q!set-server-rankbg</code></td>
+<td>"set leveling in your server 📈"</td>
+</tr>
+<tr>
+<td>kick</td>
+<td><code>q!kick</code></td>
+<td>"Kick user"</td>
+</tr>
+<tr>
+<td>Ban</td>
+<td><code>q!ban</code></td>
+<td>"Bans user"</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>and many more commands all in <code>q!help</code></p>
+</blockquote>
+
 [**HERE INVITE LINK OF BOT**](https://discord.com/oauth2/authorize?client_id=813649336751620147&scope=bot&permissions=2146790527)
